@@ -2,6 +2,10 @@
 
 A modern social feed application built with React, TypeScript, and TailwindCSS.
 
+## Live Demo
+
+- Deployed at: https://forumfeedapp.netlify.app/
+
 ## Features
 
 - **Feed Page**: Main landing page with post editor and feed
@@ -17,11 +21,13 @@ A modern social feed application built with React, TypeScript, and TailwindCSS.
 ## Getting Started
 
 1. Install dependencies:
+
 ```bash
 npm install
 ```
 
 2. Start the development server:
+
 ```bash
 npm run dev
 ```
@@ -31,6 +37,7 @@ npm run dev
 ## Build
 
 To build for production:
+
 ```bash
 npm run build
 ```
@@ -42,4 +49,3 @@ npm run build
 - TailwindCSS
 - React Router
 - Vite
-
