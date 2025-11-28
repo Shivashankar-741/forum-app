@@ -49,3 +49,4 @@ npm run build
 - TailwindCSS
 - React Router
 - Vite
+- Hooks
